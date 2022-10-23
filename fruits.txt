@@ -1,3 +1,7 @@
 Apples
 Oranges
 Bananas
+Kiwi
+Watermelon
+Pineapple
+
